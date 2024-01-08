@@ -1,0 +1,1319 @@
+{
+    "data": [
+        {
+            "Geezard": {
+                "id": 1,
+                "cardMod": "1 modifies into 5 Screws",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Geezard.",
+                    "Use Card ability on Geezard.",
+                    "Win in Triple Triad.",
+                    "Talk to a man in front of the elevator on the 2F of Balamb Garden at the beginning of the game.",
+                    "Talk to Dollet pub owner in the 'secret room' after winning a game against him"
+                ]
+            }
+        },
+        {
+            "Funguar": {
+                "id": 2,
+                "cardMod": "1 modifies into 1 M-Stone Piece",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Funguar.",
+                    "Use Card ability on Funguar.",
+                    "Win in Triple Triad.",
+                    "Talk to a man in front of the elevator on the 2F of Balamb Garden.",
+                    "Talk to the drunk in the pub during the party's attempt to get into the Timber TV Station without any Buel cards in the inventory."
+                ]
+            }
+        },
+        {
+            "Bite Bug": {
+                "id": 3,
+                "cardMod": "1 modifies into 1 M-Stone Piece",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Bite Bug.",
+                    "Use Card ability on Bite Bug.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Red Bat": {
+                "id": 4,
+                "cardMod": "1 modifies into 1 Vampire Fang",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Red Bat.",
+                    "Use Card ability on Red Bat.",
+                    "Win in Triple Triad.",
+                    "Talk to a man in front of the elevator on the 2F of Balamb Garden at the beginning of the game.",
+                    "Talk to Dollet pub owner in the 'secret room' after winning a game against him."
+                ]
+            }
+        },
+        {
+            "Blobra": {
+                "id": 5,
+                "cardMod": "4 modify into 1 Rune Armlet",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Blobra.",
+                    "Use Card ability on Blobra.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Gayla": {
+                "id": 6,
+                "cardMod": "1 modifies into 1 Mystery Fluid",
+                "elemental": "Lightning",
+                "howToObtain": [
+                    "Drop from Gayla.",
+                    "Use Card ability on Gayla.",
+                    "Win in Triple Triad.",
+                    "Talk to a man in front of the elevator on the 2F of Balamb Garden."
+                ]
+            }
+        },
+        {
+            "Gesper": {
+                "id": 7,
+                "cardMod": "1 modifies into 1 Black Hole",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Gesper.",
+                    "Use Card ability on Gesper.",
+                    "Win in Triple Triad.",
+                    "Talk to a man in front of the elevator on the 2F of Balamb Garden."
+                ]
+            }
+        },
+        {
+            "Fastitocalon-F": {
+                "id": 8,
+                "cardMod": "5 modify into 1 Water Crystal",
+                "elemental": "Earth",
+                "howToObtain": [
+                    "Drop from Fastitocalon-F.",
+                    "Use Card ability on Fastitocalon-F.",
+                    "Win in Triple Triad.",
+                    "Talk to a man in front of the elevator on the 2F of Balamb Garden."
+                ]
+            }
+        },
+        {
+            "Blood Soul": {
+                "id": 9,
+                "cardMod": "1 modifies into 1 Zombie Powder",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Blood Soul.",
+                    "Use Card ability on Blood Soul.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Caterchipillar": {
+                "id": 10,
+                "cardMod": "1 modifies into 1 Spider Web",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Caterchipillar.",
+                    "Use Card ability on Caterchipillar.",
+                    "Win in Triple Triad.",
+                    "Talk to a man in front of the elevator on the 2F of Balamb Garden."
+                ]
+            }
+        },
+        {
+            "Cockatrice": {
+                "id": 11,
+                "cardMod": "1 modifies into 1 Cockatrice Pinion",
+                "elemental": "Lightning",
+                "howToObtain": [
+                    "Drop from Cockatrice.",
+                    "Use Card ability on Cockatrice.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        
+        {
+            "Grat": {
+                "id": 12,
+                "cardMod": "1 modifies into 1 Magic Stone",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Grat.",
+                    "Use Card ability on Grat.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Buel": {
+                "id": 13,
+                "cardMod": "1 modifies into 1 Magic Stone",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Buel.",
+                    "Use Card ability on Buel.",
+                    "Win in Triple Triad.",
+                    "Defeat the G-soldiers outside the pub during the event to get to the Timber TV Station.",
+                    "Talk to Dollet pub owner in the 'secret room' after winning a game against him."
+                ]
+            }
+        },
+        {
+            "Mesmerize": {
+                "id": 14,
+                "cardMod": "1 modifies into 1 Mesmerize Blade",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Mesmerize.",
+                    "Use Card ability on Mesmerize.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Glacial Eye": {
+                "id": 15,
+                "cardMod": "1 modifies into 1 Arctic Wind",
+                "elemental": "Ice",
+                "howToObtain": [
+                    "Drop from Glacial Eye.",
+                    "Use Card ability on Glacial Eye.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Belhelmel": {
+                "id": 16,
+                "cardMod": "1 modifies into 1 Saw Blade",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Belhelmel.",
+                    "Use Card ability on Belhelmel.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Thrustaevis": {
+                "id": 17,
+                "cardMod": "1 modifies into 1 Shear Feather",
+                "elemental": "Wind",
+                "howToObtain": [
+                    "Drop from Thrustaevis.",
+                    "Use Card ability on Thrustaevis.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Anacondaur": {
+                "id": 18,
+                "cardMod": "1 modifies into 1 Venom Fang",
+                "elemental": "Poison",
+                "howToObtain": [
+                    "Drop from Anacondaur.",
+                    "Use Card ability on Anacondaur.",
+                    "Win in Triple Triad.",
+                    "Talk to Dollet pub owner in the 'secret room' after winning a game against him."
+                ]
+            }
+        },
+        {
+            "Creeps": {
+                "id": 19,
+                "cardMod": "5 modify into 1 Coral Fragment",
+                "elemental": "Lightning",
+                "howToObtain": [
+                    "Drop from Creeps.",
+                    "Use Card ability on Creeps.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Grendel": {
+                "id": 20,
+                "cardMod": "1 modifies into 1 Dragon Fin",
+                "elemental": "Lightning",
+                "howToObtain": [
+                    "Drop from Grendel.",
+                    "Use Card ability on Grendel.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Jelleye": {
+                "id": 21,
+                "cardMod": "1 modifies into 1 Magic Stone",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Jelleye.",
+                    "Use Card ability on Jelleye.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Grand Mantis": {
+                "id": 22,
+                "cardMod": "1 modifies into 1 Sharp Spike",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Grand Mantis.",
+                    "Use Card ability on Grand Mantis.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        
+        {
+            "Forbidden": {
+                "id": 23,
+                "cardMod": "1 modifies into 1 Betrayal Sword",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Forbidden.",
+                    "Use Card ability on Forbidden.",
+                    "Win in Triple Triad.",
+                    "Buy the drunk at the pub his favorite drink during the party's attempt to get into the Timber TV Station"
+                ]
+            }
+        },
+        {
+            "Armadodo": {
+                "id": 24,
+                "cardMod": "1 modifies into 1 Dino Bone",
+                "elemental": "Earth",
+                "howToObtain": [
+                    "Drop from Armadodo.",
+                    "Use Card ability on Armadodo.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Tri-Face": {
+                "id": 25,
+                "cardMod": "1 modifies into 1 Curse Spike",
+                "elemental": "Poison",
+                "howToObtain": [
+                    "Drop from Tri-Face.",
+                    "Use Card ability on Tri-Face.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Fastitocalon": {
+                "id": 26,
+                "cardMod": "1 modifies into 1 Water Crystal",
+                "elemental": "Earth",
+                "howToObtain": [
+                    "Drop from Fastitocalon.",
+                    "Use Card ability on Fastitocalon.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Snow Lion": {
+                "id": 27,
+                "cardMod": "1 modifies into 1 North Wind",
+                "elemental": "Ice",
+                "howToObtain": [
+                    "Drop from Snow Lion.",
+                    "Use Card ability on Snow Lion.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Ochu": {
+                "id": 28,
+                "cardMod": "1 modifies into 1 Ochu Tentacle",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Ochu.",
+                    "Use Card ability on Ochu.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "SAM08G": {
+                "id": 29,
+                "cardMod": "1 modifies into 1 Running Fire",
+                "elemental": "Fire",
+                "howToObtain": [
+                    "Drop from SAM08G.",
+                    "Use Card ability on SAM08G.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Death Claw": {
+                "id": 30,
+                "cardMod": "1 modifies into 1 Sharp Spike",
+                "elemental": "Fire",
+                "howToObtain": [
+                    "Drop from Death Claw.",
+                    "Use Card ability on Death Claw.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Cactuar": {
+                "id": 31,
+                "cardMod": "1 modifies into 1 Cactus Thorn",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Cactuar.",
+                    "Use Card ability on Cactuar.",
+                    "Win in Triple Triad.",
+                    "Talk to Dollet pub owner in the 'secret room' after winning a game against him."
+                ]
+            }
+        },
+        {
+            "Tonberry": {
+                "id": 32,
+                "cardMod": "1 modifies into 1 Chef's Knife",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Tonberry.",
+                    "Use Card ability on Tonberry.",
+                    "Win in Triple Triad.",
+                    "Show the Buel card to the drunk in Timber pub during the party's attempt to get into Timber TV Station."
+                ]
+            }
+        },
+        {
+            "Abyss Worm": {
+                "id": 33,
+                "cardMod": "1 modifies into 1 Windmill",
+                "elemental": "Earth",
+                "howToObtain": [
+                    "Drop from Abyss Worm.",
+                    "Use Card ability on Abyss Worm.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        
+        {
+            "Turtapod": {
+                "id": 34,
+                "cardMod": "5 modify into 1 Healing Mail",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Turtapod.",
+                    "Use Card ability on Turtapod.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Vysage": {
+                "id": 35,
+                "cardMod": "1 modifies into 1 Wizard Stone",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Vysage, Lefty or Righty",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "T-Rexaur": {
+                "id": 36,
+                "cardMod": "2 modify into 1 Dino Bone",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from T-Rexaur.",
+                    "Use Card ability on T-Rexaur.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Bomb": {
+                "id": 37,
+                "cardMod": "1 modifies into 1 Bomb Fragment",
+                "elemental": "Fire",
+                "howToObtain": [
+                    "Drop from Bomb.",
+                    "Use Card ability on Bomb.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Blitz": {
+                "id": 38,
+                "cardMod": "1 modifies into 1 Dynamo Stone",
+                "elemental": "Lightning",
+                "howToObtain": [
+                    "Drop from Blitz.",
+                    "Use Card ability on Blitz.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Wendigo": {
+                "id": 39,
+                "cardMod": "1 modifies into 1 Steel Orb",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Wendigo.",
+                    "Use Card ability on Wendigo.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Torama": {
+                "id": 40,
+                "cardMod": "5 modify into 1 Life Ring",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Torama.",
+                    "Use Card ability on Torama.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Imp": {
+                "id": 41,
+                "cardMod": "1 modifies into 1 Wizard Stone",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Imp.",
+                    "Use Card ability on Imp.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Blue Dragon": {
+                "id": 42,
+                "cardMod": "4 modify into 1 Fury Fragment",
+                "elemental": "Poison",
+                "howToObtain": [
+                    "Drop from Blue Dragon.",
+                    "Use Card ability on Blue Dragon.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Adamantoise": {
+                "id": 43,
+                "cardMod": "3 modify into 1 Turtle Shell",
+                "elemental": "Earth",
+                "howToObtain": [
+                    "Drop from Adamantoise.",
+                    "Use Card ability on Adamantoise.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Hexadragon": {
+                "id": 44,
+                "cardMod": "3 modify into 1 Red Fang",
+                "elemental": "Fire",
+                "howToObtain": [
+                    "Drop from Hexadragon.",
+                    "Use Card ability on Hexadragon.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        
+        {
+            "Iron Giant": {
+                "id": 45,
+                "cardMod": "3 modify into 1 Star Fragment",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Iron Giant.",
+                    "Use Card ability on Iron Giant.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Behemoth": {
+                "id": 46,
+                "cardMod": "10 modify into 1 Barrier",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Behemoth.",
+                    "Use Card ability on Behemoth.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Chimera": {
+                "id": 47,
+                "cardMod": "10 modify into 1 Regen Ring",
+                "elemental": "Water",
+                "howToObtain": [
+                    "Drop from Chimera.",
+                    "Use Card ability on Chimera.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "PuPu": {
+                "id": 48,
+                "cardMod": "1 modifies into 1 Hungry Cookpot",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Give PuPu 5 Elixirs during the 'UFO?' side quest."
+                ]
+            }
+        },
+        {
+            "Elastoid": {
+                "id": 49,
+                "cardMod": "1 modifies into 1 Steel Pipe",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Elastoid.",
+                    "Use Card ability on Elastoid.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "GIM47N": {
+                "id": 50,
+                "cardMod": "1 modifies into 10 Fast Ammo",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from GIM47N.",
+                    "Use Card ability on GIM47N.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Malboro": {
+                "id": 51,
+                "cardMod": "4 modify into 1 Malboro Tentacle",
+                "elemental": "Poison",
+                "howToObtain": [
+                    "Drop from Malboro.",
+                    "Use Card ability on Malboro.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Ruby Dragon": {
+                "id": 52,
+                "cardMod": "10 modify into 1 Inferno Fang",
+                "elemental": "Fire",
+                "howToObtain": [
+                    "Drop from Ruby Dragon.",
+                    "Use Card ability on Ruby Dragon.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Elnoyle": {
+                "id": 53,
+                "cardMod": "10 modify into 1 Energy Crystal",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Elnoyle.",
+                    "Use Card ability on Elnoyle.",
+                    "Win in Triple Triad."
+                ]
+            }
+        },
+        {
+            "Tonberry King": {
+                "id": 54,
+                "cardMod": "1 modifies into 1 Chef's Knife",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Fastitocalon (rare)",
+                    "Use Card ability on Malboro (rare)"
+                ]
+            }
+        },
+        {
+            "Wedge, Biggs": {
+                "id": 55,
+                "cardMod": "1 modifies into 1 X-Potion",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Snow Lion (rare)",
+                    "Use Card ability on Funguar (rare)"
+                ]
+            }
+        },
+        
+        {
+            "Fujin, Raijin": {
+                "id": 56,
+                "cardMod": "1 modifies into 1 X-Potion",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Iron Giant (rare)",
+                    "Use Card ability on Jelleye (rare)"
+                ]
+            }
+        },
+        {
+            "Elvoret": {
+                "id": 57,
+                "cardMod": "1 modifies into 10 Death Stones",
+                "elemental": "Wind",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Ochu (rare)",
+                    "Use Card ability on Bite Bug (rare)"
+                ]
+            }
+        },
+        {
+            "X-ATM092": {
+                "id": 58,
+                "cardMod": "2 modify into 1 Turtle Shell",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on SAM08G (rare)",
+                    "Use Card ability on Red Bat (rare)"
+                ]
+            }
+        },
+        {
+            "Granaldo": {
+                "id": 59,
+                "cardMod": "1 modifies into 1 G-Returner",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Death Claw (rare)",
+                    "Use Card ability on Blobra (rare)"
+                ]
+            }
+        },
+        {
+            "Gerogero": {
+                "id": 60,
+                "cardMod": "10 modify into 1 Circlet",
+                "elemental": "Poison",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Cactuar (rare)",
+                    "Use Card ability on Gayla (rare)"
+                ]
+            }
+        },
+        {
+            "Iguion": {
+                "id": 61,
+                "cardMod": "1 modifies into 1 Cockatrice Pinion",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Tonberry (rare)",
+                    "Use Card ability on Gesper (rare)"
+                ]
+            }
+        },
+        {
+            "Abaddon": {
+                "id": 62,
+                "cardMod": "1 modifies into 30 Dark Ammo",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Abyss Worm (rare)",
+                    "Use Card ability on Blood Soul (rare)"
+                ]
+            }
+        },
+        {
+            "Trauma": {
+                "id": 63,
+                "cardMod": "1 modifies into 30 Demolition Ammo",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Turtapod (rare)",
+                    "Use Card ability on Caterchipillar (rare)"
+                ]
+            }
+        },
+        {
+            "Oilboyle": {
+                "id": 64,
+                "cardMod": "1 modifies into 30 Fire Ammo",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on GIM47N (rare)",
+                    "Use Card ability on Cockatrice (rare)"
+                ]
+            }
+        },
+        {
+            "Shumi Tribe": {
+                "id": 65,
+                "cardMod": "5 modify into 1 Gambler Spirit",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on T-Rexaur (rare)",
+                    "Use Card ability on Grat (rare)"
+                ]
+            }
+        },
+        {
+            "Krysta": {
+                "id": 66,
+                "cardMod": "1 modifies into 10 Holy Stones",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Bomb (rare)",
+                    "Use Card ability on Buel (rare)"
+                ]
+            }
+        },
+        
+        {
+            "Propagator": {
+                "id": 67,
+                "cardMod": "1 modifies into 1 G-Mega-Potion",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Blitz (rare)",
+                    "Use Card ability on Mesmerize (rare)"
+                ]
+            }
+        },
+        {
+            "Jumbo Cactuar": {
+                "id": 68,
+                "cardMod": "1 modifies into 1 Cactus Thorn",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Wendigo (rare)",
+                    "Use Card ability on Glacial Eye (rare)"
+                ]
+            }
+        },
+        {
+            "Tri-Point": {
+                "id": 69,
+                "cardMod": "40 modify into 1 Jet Engine",
+                "elemental": "Lightning",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Torama (rare)",
+                    "Use Card ability on Belhelmel (rare)"
+                ]
+            }
+        },
+        {
+            "Gargantua": {
+                "id": 70,
+                "cardMod": "10 modify into 1 Strength Love",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Imp (rare)",
+                    "Use Card ability on Thrustaevis (rare)"
+                ]
+            }
+        },
+        {
+            "Mobile Type 8": {
+                "id": 71,
+                "cardMod": "1 modifies into 10 Shell Stones",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Anacondaur (rare)",
+                    "Use Card ability on Blue Dragon (rare)"
+                ]
+            }
+        },
+        {
+            "Sphinxara": {
+                "id": 72,
+                "cardMod": "1 modifies into 1 G-Mega-Potion",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Adamantoise (rare)",
+                    "Use Card ability on Creeps (rare)"
+                ]
+            }
+        },
+        {
+            "Tiamat": {
+                "id": 73,
+                "cardMod": "1 modifies into 10 Flare Stones",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Hexadragon (rare)",
+                    "Use Card ability on Grendel (rare)"
+                ]
+            }
+        },
+        {
+            "BGH251F2": {
+                "id": 74,
+                "cardMod": "1 modifies into 10 Protect Stones",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Behemoth (rare)",
+                    "Use Card ability on Grand Mantis (rare)"
+                ]
+            }
+        },
+        {
+            "Red Giant": {
+                "id": 75,
+                "cardMod": "1 modifies into 5 Meteor Stones",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Chimera (rare)",
+                    "Use Card ability on Forbidden (rare)"
+                ]
+            }
+        },
+        {
+            "Catoblepas": {
+                "id": 76,
+                "cardMod": "1 modifies into 1 Rename Card",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Armadodo (rare)",
+                    "Use Card ability on Elnoyle (rare)"
+                ]
+            }
+        },
+        {
+            "Ultima Weapon": {
+                "id": 77,
+                "cardMod": "1 modifies into 1 Ultima Stone",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win in Triple Triad.",
+                    "Use Card ability on Elastoid (rare)",
+                    "Use Card ability on Tri-Face (rare)"
+                ]
+            }
+        },
+        
+        {
+            "Chubby Chocobo": {
+                "id": 78,
+                "cardMod": "1 modifies into 100 LuvLuv G",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from male student outside the Balamb Garden Library as part of Queen of Cards side quest.",
+                    "Win from Queen of Cards on Esthar crash site in the endgame.",
+                    "Win from the left girl of CC Diamond in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Angelo": {
+                "id": 79,
+                "cardMod": "1 modifies into 100 Elixirs",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Watts on the Forest Owls' Base or White SeeD Ship.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Gilgamesh": {
+                "id": 80,
+                "cardMod": "1 modifies into 10 Holy Wars",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from CC Group King.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "MiniMog": {
+                "id": 81,
+                "cardMod": "1 modifies into 100 Pet Houses",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from the running boy within Balamb Garden. If he disappears because the player skipped the fight against T-Rexaur during Garden Riot, the player can play the girl in pink on the right side of the Garden instead.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Chicobo": {
+                "id": 82,
+                "cardMod": "1 modifies into 100 Gysahl Greens",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Catch a chocobo in every Chocobo Forest and visit the Chocobo Sanctuary.",
+                    "Win from the left girl of CC Diamond in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Quezacotl": {
+                "id": 83,
+                "cardMod": "1 modifies into 100 Dynamo Stones",
+                "elemental": "Lightning",
+                "howToObtain": [
+                    "Win from Mayor Dobe in Fishermans Horizon.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Shiva": {
+                "id": 84,
+                "cardMod": "1 modifies into 100 North Winds",
+                "elemental": "Ice",
+                "howToObtain": [
+                    "Trade The Girl Next Door magazine with Zone for free on the White SeeD Ship.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Ifrit": {
+                "id": 85,
+                "cardMod": "1 modifies into 3 Elem Atks",
+                "elemental": "Fire",
+                "howToObtain": [
+                    "Drop from Ifrit.",
+                    "Win back from Martine after trading Ifrit for Rinoa.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Siren": {
+                "id": 86,
+                "cardMod": "1 modifies into 3 Status Atks",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Pub Manager in Dollet.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Sacred": {
+                "id": 87,
+                "cardMod": "1 modifies into 100 Dino Bones",
+                "elemental": "Earth",
+                "howToObtain": [
+                    "Drop from Minotaur.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Minotaur": {
+                "id": 88,
+                "cardMod": "1 modifies into 10 Adamantines",
+                "elemental": "Earth",
+                "howToObtain": [
+                    "Obtain Brothers GF",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        
+        {
+            "Carbuncle": {
+                "id": 89,
+                "cardMod": "1 modifies into 3 Glow Curtains",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Heart during the CC Group side quest.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Diablos": {
+                "id": 90,
+                "cardMod": "1 modifies into 100 Black Holes",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Diablos.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Leviathan": {
+                "id": 91,
+                "cardMod": "1 modifies into 3 Doc's Codes",
+                "elemental": "Water",
+                "howToObtain": [
+                    "Joker of the CC Group in Balamb Garden Training Center (appears randomly in the easternmost screen after Garden has become mobile).",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Odin": {
+                "id": 92,
+                "cardMod": "1 modifies into 100 Dead Spirits",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Odin.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Pandemona": {
+                "id": 93,
+                "cardMod": "1 modifies into 100 Windmills",
+                "elemental": "Wind",
+                "howToObtain": [
+                    "Balamb Hotel Owner after Balamb Garden has become mobile. If the player helps Big Bad Rascal sneak past the guards during Balamb Town lockdown, the hotel owner's daughter (in the house next to Zell's) will play Pandemona, allowing the player to get it slightly earlier.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Cerberus": {
+                "id": 94,
+                "cardMod": "1 modifies into 100 Lightweights",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Cerberus.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Alexander": {
+                "id": 95,
+                "cardMod": "1 modifies into 3 Moon Curtains",
+                "elemental": "Holy",
+                "howToObtain": [
+                    "Win from Piet in the Lunar Base or its crash site.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Phoenix": {
+                "id": 96,
+                "cardMod": "1 modifies into 3 Phoenix Spirits",
+                "elemental": "Fire",
+                "howToObtain": [
+                    "Win from the Presidential Aide in Esthar City as part of the Queen of Cards side quest.",
+                    "Win from Queen of Cards on Esthar crash site in the endgame.",
+                    "Win from the left girl of CC Diamond in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Bahamut": {
+                "id": 97,
+                "cardMod": "1 modifies into 100 Megalixirs",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Bahamut.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Doomtrain": {
+                "id": 98,
+                "cardMod": "1 modifies into 3 Status Guard",
+                "elemental": "Poison",
+                "howToObtain": [
+                    "Win from pub owner in Timber as part of Queen of Cards side quest.",
+                    "Win from Queen of Cards on Esthar crash site in the endgame.",
+                    "Win from the left girl of CC Diamond in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Eden": {
+                "id": 99,
+                "cardMod": "1 modifies into 3 Monk's Codes",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Drop from Ultima Weapon.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        
+        {
+            "Ward": {
+                "id": 100,
+                "cardMod": "1 modifies into 3 Gaea's Rings",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Dr. Odine in Esthar City.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Kiros": {
+                "id": 101,
+                "cardMod": "1 modifies into 3 Accelerators",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from the black dressed man in Deling City's shopping District as part of Queen of Cards side quest.",
+                    "Win from Queen of Cards on Esthar crash site in the endgame.",
+                    "Win from the left girl of CC Diamond in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Laguna": {
+                "id": 102,
+                "cardMod": "1 modifies into 100 Heroes",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Ellone in the Lunar Base.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Selphie": {
+                "id": 103,
+                "cardMod": "1 modifies into 3 Elem Guards",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Selphie's friend in Trabia Garden.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Quistis": {
+                "id": 104,
+                "cardMod": "1 modifies into 3 Samantha Souls",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from any one of the Trepies in the Balamb Garden classroom or cafeteria.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Irvine": {
+                "id": 105,
+                "cardMod": "1 modifies into 3 Rocket Engines",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Flo in the Fishermans Horizon as part of Queen of Cards side quest.",
+                    "Win from Queen of Cards on Esthar crash site in the endgame.",
+                    "Win from the left girl of CC Diamond in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Zell": {
+                "id": 106,
+                "cardMod": "1 modifies into 3 Hyper Wrists",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Ma Dincht in Balamb Town.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Rinoa": {
+                "id": 107,
+                "cardMod": "1 modifies into 3 Magic Armlets",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from General Caraway after losing the Ifrit card to him.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Edea": {
+                "id": 108,
+                "cardMod": "1 modifies into 3 Royal Crowns",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Edea at her house.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Seifer": {
+                "id": 109,
+                "cardMod": "1 modifies into 3 Diamond Armors",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Cid in Balamb Garden or Edea's House.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        },
+        {
+            "Squall": {
+                "id": 110,
+                "cardMod": "1 modifies into 3 Three Stars",
+                "elemental": "N/A",
+                "howToObtain": [
+                    "Win from Laguna in Esthar City or on the Ragnarok airship.",
+                    "Win from the CC Group in the Ragnarok airship in the endgame."
+                ]
+            }
+        }
+    ]
+}
